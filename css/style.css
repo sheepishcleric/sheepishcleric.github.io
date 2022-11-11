@@ -1,5 +1,5 @@
 header, footer {
-  background-color: #ffa500;
+  background-color: #1982c4;
   text-align: center;
   min-width: 500px;
 }
@@ -23,7 +23,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: 1982c4;
+  color: #1982c4;
   padding: 10px 0px 10px 10px;
 }
 
@@ -59,7 +59,7 @@ img {
   font-weight: 500;
   letter-spacing: 0.3px;
   text-align: left;
-  color: 073b4c;
+  color: #073b4c;
   position: relative;
   bottom: 5px;
 }
@@ -71,7 +71,7 @@ img {
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: 073b4c;
+  color: #073b4c;
   padding: 10px 0px 10px 10px;
   border-top: 1px solid #4a4a4a;
 }
