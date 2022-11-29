@@ -7,14 +7,16 @@ body {
 }
 
 header, footer {
-  header {
+  background-color: #1982c4;
+  text-align: left;
+/*  min-width: 500px; */
+}
+
+header {
   font-family: Work Sans;
   color: #fff;
   min-height: 100vh;
   display: flex;
-  background-color: #1982c4;
-  text-align: left;
-/*  min-width: 500px;*/
 }
 
 main {
